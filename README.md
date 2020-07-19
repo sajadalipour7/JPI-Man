@@ -1,5 +1,5 @@
 # JPI-Man
 
-![alt screenshot2](screenshot2.jpg)
+![alt screenshot](screenshot.JPG)
 
 JPI-Man is a http client with graphical interface written in java
